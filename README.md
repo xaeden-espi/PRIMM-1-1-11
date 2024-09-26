@@ -30,7 +30,7 @@ Run the program.
     > your answer
 
 ## Make
-1. Add more lines of code to perform other math operations with the numbers you entered. Try the following operators. 
+1. Add more lines of code to perform other math operations with the numbers you entered and print out the results. Try the following operators. 
     - `-`
     - `*`
     - `**`
