@@ -4,10 +4,10 @@
 Answer the following questions *without running the repo**.
 
 1. What does this program output?
-    > your answer
+    > I predict that this program will output the sum of 1+1 to equal 11
 
 2. If the user intended on outputting the sum of two numbers, does this program accomplish the purpose? Why/why not?
-    > your answer
+    > No, because 11 is not the sum of 1+1
 
 ## Run
 Run the program. 
